@@ -1,0 +1,30 @@
+.class{
+    background-color: #2a525a;
+}
+.box{
+    background-color: #311313;
+    width: 636px;
+    height: 116px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 700;
+    margin: auto;
+    padding: 30px;
+    box-sizing: border-box;
+    font-size: 64px;
+}
+.block{
+    border: 10px solid #ff0606;
+    background-color: #000000;
+width: 1000px;
+margin: auto;
+padding: 30px;
+
+}
+.container{
+    background-color: #1fe8b7;
+    padding: 30px;
+    box-sizing: border-box;
+    font-weight: 700;
+    font-size: 24px;
+}
